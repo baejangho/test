@@ -2,7 +2,7 @@ print("test")
 
 print("수정")
 
-print("수정중")
+print("수정중wfgasdfsdfsd")
 
 def test():
     print('성환')
